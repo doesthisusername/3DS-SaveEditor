@@ -2,6 +2,12 @@
 Thumbs.db
 ehthumbs.db
 
+# Custom
+output
+buildtools
+*.vcxproj*
+.vs
+
 # Folder config file
 Desktop.ini
 
