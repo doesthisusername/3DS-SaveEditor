@@ -5,6 +5,7 @@ ehthumbs.db
 # Custom
 output
 buildtools
+*.sln
 *.vcxproj*
 .vs
 
