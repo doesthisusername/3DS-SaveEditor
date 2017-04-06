@@ -1,5 +1,2 @@
-# BuildTemplate
-
-buildtools project template.
-
-Requires [devkitARM](http://sourceforge.net/projects/devkitpro/files/devkitARM/) to build for 3DS, and [devkitPPC](http://sourceforge.net/projects/devkitpro/files/devkitPPC/) to build for Wii U.
+# Save Editor for 3DS
+Hopefully at some point you will be able to easily create recipes, then edit your saves with those.
