@@ -5,9 +5,11 @@ ehthumbs.db
 # Custom
 output
 buildtools
+Debug
 *.sln
 *.vcxproj*
 .vs
+*.db
 
 # Folder config file
 Desktop.ini
